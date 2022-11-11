@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * simple_shell - starts a simple shell
+ * main - starts a simple shell
+ *
+ * Return: Always 0
  */
 int main(int __attribute__((unused)) argc, char **argv, char **env)
 {
