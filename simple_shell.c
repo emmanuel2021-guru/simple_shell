@@ -2,6 +2,9 @@
 
 /**
  * main - starts a simple shell
+ * @argc: number of command line arguments
+ * @argv: pointer to the array of arguments
+ * @env: pointer to an array of environment variables
  *
  * Return: Always 0
  */
@@ -35,5 +38,5 @@ int main(int __attribute__((unused)) argc, char **argv, char **env)
 
 	free(buf);
 
-	return(0);
+	return (0);
 }
