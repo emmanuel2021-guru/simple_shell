@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Alex Yu <[AlexYu01](https://github.com/AlexYu01)>
-* Brennan D Baraban <[bdbaraban](https://github.com/bdbaraban)>
+* Ogunsola Emmanuel <[joe801](https://github.com/joe801)>
+* Uwagbale Joseph <[emmanuel2021-guru](https://github.com/emmanuel2021-guru)>
 
 ## License :lock:
 
